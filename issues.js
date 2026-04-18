@@ -26,13 +26,4 @@ window.COMIC_ISSUES = [
     `,
   },
 
-  {
-    n: 3,
-    title: "Boop 2025",
-    image: "assets/boop2025.jpg",
-    square: false,
-    html: `a cat in a hat, sat with a tail in his pocket, rescinding his lifted minced-mind to live a squinted rinsed life.
-    cat in a hat, sat with a tail in his pocket, rescinding his lifted minced-mind to live a squinted rinsed life.
-    `,
-  },
 ];
