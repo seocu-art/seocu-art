@@ -9,6 +9,7 @@ window.COMIC_ISSUES = [
     image: "assets/1-sea.jpg",
     square: true,
     html: `
+    (Work In Progress: This is the thumbnail sketch, needs repainting and text, but thus it begins)
     the collective unconscious contains all - beauty and filth.
     it also contains enough possibilities for a dithering webcomic author
     `,
